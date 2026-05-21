@@ -1,0 +1,12 @@
+[project]
+name = "shopmyscreen"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=0.100.0",
+    "mss>=10.2.0",
+    "pillow>=12.2.0",
+    "torch>=2.11.0",
+    "transformers>=5.8.0",
+]
