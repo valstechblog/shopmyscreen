@@ -1,13 +1,15 @@
 # Shop My Screen
 
-Detect clothing in TV/film playing on your screen and find places to buy it.
+Detects clothing in TV/film playing on your screen and links off to retailers / Google Lens for more granularity. 
+
+<img width="1920" height="729" alt="Screenshot 2026-05-19 at 7 00 19 PM" src="https://github.com/user-attachments/assets/26a1a4e7-b154-4052-a60a-e4fb3c2eb226" />
+
+<img width="1251" height="743" alt="Screenshot 2026-05-20 at 12 55 07 PM" src="https://github.com/user-attachments/assets/07d07b7f-198f-4fec-bd9a-83b425433b15" />
 
 ## Quickstart
 
-```bash
-cd ~/Documents/valstb/shopmyscreen
-uv run python main.py
-```
+- clone `shopmyscreen` locally 
+- `uv run python main.py` 
 
 `uv` installs everything from `pyproject.toml` into `.venv` on first run.
 
@@ -25,7 +27,7 @@ Pick one in the **Detection Mode** panel:
 | **BLIP Local** | free | ~1 GB download | Image captioning. Good descriptions of clothing. |
 | **FashionCLIP** | free | ~600 MB download | Fashion-specific classifier. Crisp category labels. |
 
-Models cache to `~/.cache/huggingface/` after first download — subsequent scans are fast.
+Models cache to `~/.cache/huggingface/` after first download. Subsequent scans are fast.
 
 ## Using the app
 
