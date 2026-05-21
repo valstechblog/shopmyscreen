@@ -1,5 +1,7 @@
 # Shop My Screen
 
+Blog post: https://valstechblog.substack.com/p/real-time-on-screen-product-detection 
+
 Detects clothing in TV/film playing on your screen and links off to retailers / Google Lens for more granularity. 
 
 <img width="1920" height="729" alt="Screenshot 2026-05-19 at 7 00 19 PM" src="https://github.com/user-attachments/assets/26a1a4e7-b154-4052-a60a-e4fb3c2eb226" />
