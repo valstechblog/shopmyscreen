@@ -6,7 +6,8 @@ Detects clothing in TV/film playing on your screen and links off to retailers / 
 
 <img width="1920" height="729" alt="Screenshot 2026-05-19 at 7 00 19 PM" src="https://github.com/user-attachments/assets/26a1a4e7-b154-4052-a60a-e4fb3c2eb226" />
 
-<img width="1251" height="743" alt="Screenshot 2026-05-20 at 12 55 07 PM" src="https://github.com/user-attachments/assets/07d07b7f-198f-4fec-bd9a-83b425433b15" />
+<img width="1251" height="743" alt="b47673e9-e625-4cb4-a783-5b3e9e8e38b8_1251x743" src="https://github.com/user-attachments/assets/79f2b9c1-3f8e-4263-a33d-75cb96287a60" />
+
 
 ## Quickstart
 
